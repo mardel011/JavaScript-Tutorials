@@ -1,9 +1,9 @@
-//Basic JavaScript: Subtract One Number from Another with JavaScript
+//Basic JavaScript: Add Two Numbers with JavaScript
 
-//Challenge: Change the 0 so the difference is 12.
+//Challenge: Change the 0 so that sum will equal 20.
 
-//Code given: var difference = 45 - 0;
+//Code given: var sum = 10 + 0;
 
 // Test output below
 
-var difference = 45 - 33;
+var sum = 10 + 10;

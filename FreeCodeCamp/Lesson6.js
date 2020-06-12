@@ -1,9 +1,16 @@
-//Basic JavaScript: Add Two Numbers with JavaScript
-
-//Challenge: Change the 0 so that sum will equal 20.
-
-//Code given: var sum = 10 + 0;
+//Basic JavaScript: Understanding Case Sensitivity in Variables
 
 // Test output below
 
-var sum = 10 + 10;
+/* Modify the existing declarations and assignments so their names use camelCase.
+Do not create any new variables. */
+
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase= "A String";
+titleCaseOver = 9000;

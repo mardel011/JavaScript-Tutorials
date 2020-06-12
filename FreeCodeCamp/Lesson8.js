@@ -1,9 +1,9 @@
-//Basic JavaScript: Multiply Two Numbers with JavaScript
+//Basic JavaScript: Subtract One Number from Another with JavaScript
 
-//Challenge: Change the 0 so that product will equal 80.
+//Challenge: Change the 0 so the difference is 12.
 
-//Code given: var product = 8 * 0;
+//Code given: var difference = 45 - 0;
 
 // Test output below
 
-var product = 8 * 10;
+var difference = 45 - 33;
